@@ -1,0 +1,35 @@
+body {
+	background: #f7f7f7; !important;
+}
+nav .navbar {
+	border: auto;
+}
+nav.navbar{
+	margin-left: auto !important;
+	margin-right: auto !important;
+	background: #13122A !important;
+	margin-bottom: 0px !important;
+}
+
+div.navUnderline{
+	height: 3px;
+	background: orange !important;
+}
+
+li a.navLink{
+	color: white !important;
+	min-height: 2px !important;
+	height: 2px !important;
+}
+.sheet {
+	margin-left: auto;
+	margin-right: auto;
+	border-top: auto;
+	border: 1px solid #ddd;
+	background: white;
+}
+
+div.navbar-header a.navbar-brand{
+	color: white;
+	font-size: 300%;
+}
